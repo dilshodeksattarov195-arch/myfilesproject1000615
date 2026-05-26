@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheptringify",
+        "uuid": 811185,
+        "checksum": "oe4q2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
